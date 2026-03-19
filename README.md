@@ -1,1 +1,1 @@
-# Kadush
+Kadush — App iOS em Swift para criação de roteiros de vídeo com IA. Define tema, tom e formato; gera roteiros automáticos via OpenAI. SwiftUI + SwiftData. Persistência local com checkpoints, edição e lixeira. Interface em tema escuro nativo.
